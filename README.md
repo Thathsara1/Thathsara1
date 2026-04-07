@@ -1,3 +1,4 @@
+
 <h2 align="left"Hi 👋! My name is Pasindu Thathsara and I'm a software developer and tech enthusiast from Sri Lanka. 🌏.</h2>
 
 ###
@@ -6,7 +7,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 
 ###
 
